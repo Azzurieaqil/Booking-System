@@ -172,8 +172,8 @@
             &copy;
             <script>
               document.write(new Date().getFullYear())
-            </script>, Dibangunkan oleh
-            Azzurie Aqil</a> untuk sistem yang terbaik.
+            </script>, Created by
+            Azzurie Aqil</a> for the best experience.
           </div>
         </div>
       </footer>
@@ -290,7 +290,7 @@
         if (window_width > 767 && fixed_plugin_open == 'Dashboard') {
           if ($('.fixed-plugin .dropdown').hasClass('show-dropdown')) {
             $('.fixed-plugin .dropdown').addClass('open');
-          }
+          } 
 
         }
 
