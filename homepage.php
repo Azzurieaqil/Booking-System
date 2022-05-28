@@ -518,7 +518,7 @@
                 <h2 class="footer-heading mb-4">Developer</h2>
                 
                   <div class="input-group mb-3">
-                    <p class="mb-5">Azzurie Aqil bin Dajhiary dan Bill Gates</p>
+                    <p class="mb-5">Azzurie Aqil bin Dajhiary and Bill Gates</p>
                     <div class="input-group-append">
                     </div>
                   </div>
